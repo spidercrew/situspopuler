@@ -1,0 +1,92 @@
+.cloud-label-widget-content {
+text-align: left;
+}
+.label-size {
+background: #5498C9;
+display: block;
+float: left;
+margin: 0 3px 3px 0;
+color: #fff;
+font-family: 'Open Sans',"Segoe UI",Arial,Tahoma,sans-serif;
+font-size: 11px;
+text-transform: uppercase;
+}
+.label-size:nth-child(1) {
+background: #F53477;
+}
+.label-size:nth-child(2) {
+background: #89C237;
+}
+.label-size:nth-child(3) {
+background: #44CCF2;
+}
+.label-size:nth-child(4) {
+background: #01ACE2;
+}
+.label-size:nth-child(5) {
+background: #94368E;
+}
+.label-size:nth-child(6) {
+background: #A51A5D;
+}
+.label-size:nth-child(7) {
+background: #555;
+}
+.label-size:nth-child(8) {
+background: #f2a261;
+}
+.label-size:nth-child(9) {
+background: #00ff80;
+}
+.label-size:nth-child(10) {
+background: #b8870b;
+}
+.label-size:nth-child(11) {
+background: #99cc33;
+}
+.label-size:nth-child(12) {
+background: #ffff00;
+}
+.label-size:nth-child(13) {
+background: #40dece;
+}
+.label-size:nth-child(14) {
+background: #ff6347;
+}
+.label-size:nth-child(15) {
+background: #f0e68d;
+}
+.label-size:nth-child(16) {
+background: #7fffd2;
+}
+.label-size:nth-child(17) {
+background: #7a68ed;
+}
+.label-size:nth-child(18) {
+background: #ff1491;
+}
+.label-size:nth-child(19) {
+background: #698c23;
+}
+.label-size:nth-child(20) {
+background: #00ff00;
+}
+.label-size a, .label-size span {
+display: inline-block;
+color: #fff !important;
+padding: 4px 10px;
+font-weight: bold;
+}
+.label-size:hover {
+background: #222;
+}
+.label-count {
+white-space: nowrap;
+padding-right: 3px;
+margin-left: -3px;
+background: #333;
+color: #fff ;
+}
+.label-size:hover .label-count, .label-size:focus+.label-count {
+background-color: #ff6bb5;
+}
