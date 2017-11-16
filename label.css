@@ -9,7 +9,7 @@ margin: 0 3px 3px 0;
 color: #fff;
 font-family: 'Open Sans',"Segoe UI",Arial,Tahoma,sans-serif;
 font-size: 11px;
-text-transform: uppercase;
+text-transform: capitalize;
 }
 .label-size:nth-child(1) {
 background: #F53477;
